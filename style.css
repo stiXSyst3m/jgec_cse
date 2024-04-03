@@ -207,7 +207,8 @@ nav .fa{
     
   }
   .footer_end{
-    
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
     font-size: 13px;
     
